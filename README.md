@@ -5,4 +5,4 @@ The URL could be remote or local.
 
 # Keywords
 
-** example, sample code, media playback, video playback, iOS **
+**example, sample code, media playback, video playback, iOS**
